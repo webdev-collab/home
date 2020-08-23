@@ -124,8 +124,8 @@ body{
   	/*Adding background for the slides
   	* --------------------------------------- */
   	#slide1{
-  		background-image: url(imgs/bg2.jpg);
-  		padding: 6% 0 0 0;
+  		background: linear-gradient(#eaeef3,#eaeef3);
+
   	}
   	#slide2{
   		background-image: url(imgs/bg5.jpg);
@@ -138,6 +138,11 @@ body{
 
   		background: linear-gradient(#22c1c3,#fafafa);
   	}
+
+		#section2{
+
+			background: linear-gradient(#eaeef3,#eaeef3);
+		}
 
 
 		/*Adding background color for the section
